@@ -1,5 +1,7 @@
-🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
-- Hi, I’m abby
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/98159404/203903687-76f67576-f26e-4e70-8048-fb9dfb8b7a25.jpg" />
+</p>
+🌱🌱🌱🌱🌱🌱🌱
 
 
 <!---
